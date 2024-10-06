@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **B.Tech 2nd Year** student in **AI and Data Science**.
+- 🎓 **B.Tech 3nd Year** student in **AI and Data Science**.
 - 💻 Passionate about **AI, Data Science, and Machine Learning**.
 - 🐍 Proficient in **Python**, with strong skills in **Pandas, NumPy, Matplotlib**, and **OOP**.
 - 🌱 Currently honing my skills in **Web Development** with **Flask** and **JavaScript**.
